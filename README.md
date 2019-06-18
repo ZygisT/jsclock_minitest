@@ -1,2 +1,2 @@
-# jsclock_minitest
+# JS clock
 Test repository for github api
