@@ -1,2 +1,2 @@
 # jsclock_minitest
-Test Project
+Test project for Github API
